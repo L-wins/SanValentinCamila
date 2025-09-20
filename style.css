@@ -123,7 +123,7 @@ canvas {
   top: 50%;
   left: 5%;
   transform: translateY(-50%);
-  width: 300px;
+  width: 200px;
   max-width: 30%;
   z-index: 20;
   pointer-events: none;
